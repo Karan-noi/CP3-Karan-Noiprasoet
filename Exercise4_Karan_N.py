@@ -2,6 +2,7 @@ A =  75
 B =  70
 C =  80
 D =  75
+print("--- Your Score ---")
 print("Foundation English : คะแนนที่ได้",A)
 print("General Business : คะแนนที่ได้",B)
 print("Introduction to Computer Systems : คะแนนที่ได้",C)
